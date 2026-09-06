@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Kaalim TV Channel"
+description = "A responsive music artist website presented as a fictional broadcast channel, with animated broadcast graphics, releases, visuals, schedule, social signals, and contact."
+version = "1.0.0"
+id = "artifacts/kaalim-channel"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24672
+
+[services.development]
+run = "pnpm --filter @workspace/kaalim-channel run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kaalim-channel", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/kaalim-channel/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24672"
+BASE_PATH = "/"

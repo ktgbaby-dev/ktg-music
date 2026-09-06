@@ -1,0 +1,475 @@
+Create a highly polished, immersive music artist website based on the attached visual moodboard.
+
+The core concept is:
+
+THE ARTIST IS A TV CHANNEL.
+
+Visitors aren't simply browsing an artist's website — they are tuning into the artist's channel.
+
+The visual identity should evoke the playful, rebellious, colorful energy of late-90s/2000s cartoon television and animated network idents, while remaining completely original and not directly copying Cartoon Network logos, characters, trademarks, or specific show designs.
+
+The site should feel like "a cartoon channel for music" — playful, weird, nostalgic, slightly chaotic, but still sophisticated enough to function as a professional music artist website.
+
+OVERALL VISUAL DIRECTION
+
+Use the attached moodboard as the primary visual reference.
+
+Visual language
+Dark/near-black background
+Bright yellow
+Electric blue
+Hot pink
+Lime green
+Off-white/cream
+Occasional orange and purple accents
+Hand-drawn doodles
+Cut-out letters
+Paper/sticker shapes
+Rough edges
+Scribbles
+Stars
+Lightning bolts
+Cartoon-style symbols
+TV static
+CRT-inspired elements
+Subtle VHS/analog imperfections
+Grain/noise
+Occasional chromatic/glitch effects
+Collage-style compositions
+
+The design should feel handmade and imperfect, rather than like a clean corporate website.
+
+Use asymmetry and unexpected positioning. Elements can slightly overlap, rotate, or break outside conventional containers.
+
+However, maintain excellent UX and readability.
+
+Typography
+
+Typography is extremely important.
+
+Use a combination of:
+
+A bold, chunky, playful display typeface for major headings.
+A hand-drawn/marker-style typeface for secondary text.
+A clean sans-serif for functional UI elements.
+
+Large headlines should sometimes look like cut-out letters assembled from different pieces of paper, similar to a ransom-note/collage alphabet.
+
+Do NOT use one font for everything.
+
+SITE EXPERIENCE
+
+The website should open like a television broadcast.
+
+When the visitor first arrives, create a very short channel-ident animation.
+
+Something like:
+
+STATIC → CHANNEL SIGNAL → CH. 01 → ARTIST NAME → WEBSITE
+
+Then transition smoothly into the homepage.
+
+Do not make the intro annoying or excessively long. It should be approximately 1–2 seconds and allow the visitor to immediately enter the site.
+
+Include a subtle "SKIP INTRO" option.
+
+NAVIGATION
+
+Create a minimal persistent navigation bar.
+
+Left:
+
+[KAALIM(THE GREAT)]
+
+Center/right:
+
+ON AIR
+MUSIC
+VISUALS
+ABOUT
+
+Far right:
+
+CH. 01
+
+The navigation should feel like a television channel interface rather than a conventional website menu.
+
+On mobile, convert this into a clean hamburger/menu interaction.
+
+HERO — "NOW TUNING IN"
+
+The hero should immediately communicate the channel concept.
+
+Large editorial typography:
+
+NOW
+TUNING IN...
+
+Then:
+
+[KAALIM(THE GREAT)]
+
+And a short phrase describing the artist.
+
+Example placeholder:
+
+THE CHANNEL FOR MISFITS.
+
+Do not permanently use that phrase if it isn't appropriate to the artist; treat it as placeholder copy.
+
+Include:
+
+LISTEN NOW →
+
+as the primary CTA.
+
+The hero should contain a large retro television illustration/graphic displaying animated static, abstract visuals, or the artist's artwork.
+
+Add small broadcast details around the composition:
+
+CH. 01
+ON AIR
+LIVE SIGNAL
+VOL. 001
+
+Make these details feel like authentic television graphics.
+
+SECTION 02 — ON AIR / LATEST RELEASE
+
+Instead of calling this "Latest Release", title it:
+
+ON AIR
+
+Feature the artist's newest song/project prominently.
+
+Include:
+
+Cover artwork
+Song/project title
+Artist name
+Short description
+Audio player
+Play/pause button
+Progress bar
+Track duration
+Streaming links
+Spotify
+Apple Music
+YouTube
+Audiomack or other relevant platform
+
+Make the player look like a broadcast control interface rather than a standard embedded music player.
+
+Include small details such as:
+
+NOW PLAYING
+CH. 01
+SIGNAL: ACTIVE
+
+Add subtle waveform/equalizer animation while music is playing.
+
+SECTION 03 — THE LIBRARY
+
+Call the discography:
+
+THE LIBRARY
+
+Display music releases like television programs.
+
+Each release should have:
+
+Artwork
+Title
+Year
+Release type
+Play button
+Hover animation
+
+Categories:
+
+ALL / SINGLES / EPs / ALBUMS
+
+On hover, artwork can slightly move, distort, rotate, or reveal additional information.
+
+Do not make this look like a generic Spotify clone.
+
+It should feel like a collection of shows/programs stored inside the artist's fictional network archive.
+
+SECTION 04 — PROGRAMMING / VISUALS
+
+Title:
+
+PROGRAMMING
+
+This section contains:
+
+Music videos
+Visualizers
+Short films
+Performance clips
+Behind-the-scenes footage
+Photography
+
+Present them as television programs.
+
+Example:
+
+PROGRAM 001
+MUSIC VIDEO
+
+PROGRAM 002
+LIVE SESSION
+
+PROGRAM 003
+BEHIND THE SIGNAL
+
+Use a visually interesting asymmetric gallery.
+
+Videos should open in a cinematic modal/player when clicked.
+
+SECTION 05 — MEET THE CHARACTER
+
+Instead of a boring "About the Artist" section, call it:
+
+MEET THE CHARACTER
+
+Introduce the artist as the central character of this fictional universe.
+
+Use a large illustrated/cartoon representation or artist photograph with graphic elements surrounding it.
+
+Include a concise artist biography.
+
+The writing should feel personal and slightly mysterious — not like a Wikipedia biography.
+
+Add handwritten annotations, doodles, arrows, stars, stickers, etc.
+
+Possible small labels:
+
+SPECIES: HUMAN?
+ORIGIN: UNKNOWN
+STATUS: ACTIVE
+SIGNAL: STRONG
+CURRENT LOCATION: SOMEWHERE BETWEEN REALITY & CH 301
+
+These should be playful optional details rather than literal factual claims.
+
+SECTION 06 — SCHEDULE
+
+Title:
+
+TODAY'S PROGRAMMING
+
+Use this section for:
+
+Upcoming releases
+Music videos
+Shows
+Performances
+Events
+Announcements
+
+Display them like a TV schedule.
+
+Example:
+
+08:00 — NEW SINGLE
+11:30 — BEHIND THE SCENES
+14:00 — MUSIC VIDEO
+18:00 — LIVE SESSION
+22:00 — LATE NIGHT MIX
+
+For actual events, include:
+
+DATE
+VENUE
+LOCATION
+GET TICKETS →
+
+If there are no upcoming events, gracefully hide this section rather than displaying empty content.
+
+SECTION 07 — SOCIAL SIGNAL
+
+Instead of simply saying "Follow me", create:
+
+TUNE IN
+
+Include social platforms:
+
+Instagram
+TikTok
+YouTube
+X
+Spotify
+
+Make them feel like different broadcast frequencies/channels.
+
+Example:
+
+IG — SIGNAL 01
+TT — SIGNAL 02
+YT — SIGNAL 03
+
+Use animated hover states.
+
+SECTION 08 — CONTACT / BOOKINGS
+
+Title:
+
+TRANSMIT A MESSAGE
+
+Include:
+
+Booking
+Management
+Collaborations
+Press/media
+
+Simple contact form.
+
+The form should feel like a broadcast transmission panel.
+
+FOOTER
+
+The footer should feel like the end of a television broadcast.
+
+Display:
+
+[KAALIM(THE GREAT)]
+
+CH. 01
+
+Then:
+
+THANKS FOR TUNING IN.
+
+Add social links and copyright information.
+
+Finish with a tiny animated:
+
+SIGNAL LOST...
+
+
+
+ANIMATION & INTERACTION
+
+This is extremely important.
+
+The website should feel alive.
+
+Use tasteful:
+
+Smooth scrolling
+Text reveals
+Marquee text
+Hover animations
+Image distortion
+Slight rotation
+Sticker movement
+CRT scanlines
+Glitch transitions
+TV static transitions
+Cursor interactions
+Animated channel indicators
+Loading/broadcast animations
+Scroll-triggered reveals
+Subtle parallax
+Animated doodles
+
+Don't animate everything simultaneously.
+
+Animation should feel intentional and editorial.
+
+The website should be fun to interact with.
+
+IMPORTANT DESIGN RULE
+
+Do NOT create:
+
+A generic SaaS landing page
+Generic rounded cards everywhere
+Corporate gradients
+Excessive glassmorphism
+A generic Spotify-style interface
+Generic template sections
+Excessive shadows
+Excessive smooth rounded UI
+
+Avoid making every element perfectly symmetrical.
+
+The design should have personality.
+
+Think:
+
+music artist website × fictional TV network × animated collage × underground magazine × late-night cartoon channel
+
+TECHNICAL REQUIREMENTS
+
+Build the site as a modern responsive web application.
+
+Use:
+
+React
+TypeScript
+Tailwind CSS
+High-quality component architecture
+Responsive design
+Mobile-first considerations
+Smooth animations
+Performance-conscious animations
+
+Use Framer Motion or an equivalent animation library where appropriate.
+
+Make the website fully responsive across:
+
+Desktop
+Tablet
+Mobile
+
+The desktop version should be visually impressive, but the mobile version should feel intentionally designed rather than simply being a collapsed desktop layout.
+
+Use reusable components for:
+
+Navigation
+Music cards
+Video cards
+Release cards
+Buttons
+Broadcast labels
+Channel indicators
+TV/static effects
+Typography treatments
+CONTENT PLACEHOLDERS
+
+Use realistic placeholder content where necessary, but structure the project so I can easily replace:
+
+Artist name
+Artist bio
+Profile image
+Album artwork
+Songs
+Streaming links
+Music videos
+Social links
+Events
+Contact information
+
+Create a clear data structure for these items rather than hardcoding everything directly into the UI.
+
+MOST IMPORTANT CREATIVE DIRECTION
+
+The website should make someone think:
+
+"Wait... this isn't an artist website. This is a TV channel."
+
+It should feel nostalgic without being outdated.
+
+It should feel cartoonish without looking childish.
+
+It should feel chaotic without becoming messy.
+
+It should feel experimental without sacrificing usability.
+
+The artist's music is the content.
+The website is the channel.
+
+Build the entire experience around that idea.
