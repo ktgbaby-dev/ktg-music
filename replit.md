@@ -34,7 +34,7 @@ A frontend-only music artist website presented as a fictional broadcast channel.
 
 ## Gotchas
 
-- The Vite workflow supplies `PORT` and `BASE_PATH`; do not hardcode either in the app.
+- The Vite config uses the Replit-provided `PORT` and `BASE_PATH` when present, with local/static-hosting defaults when they are absent.
 
 ## Pointers
 
