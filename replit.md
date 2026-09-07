@@ -10,7 +10,7 @@ A frontend-only music artist website presented as a fictional broadcast channel.
 
 ## Stack
 
-- pnpm workspaces, Node.js 24, TypeScript 5.9
+- pnpm workspace, Node.js 24, TypeScript 5.9
 - Frontend: React, TypeScript, Vite, Tailwind CSS
 - Motion: CSS animations and interaction state
 
@@ -34,7 +34,7 @@ A frontend-only music artist website presented as a fictional broadcast channel.
 
 ## Gotchas
 
-- The Vite config uses the Replit-provided `PORT` and `BASE_PATH` when present, with local/static-hosting defaults when they are absent.
+- The Vite config accepts Replit's preview `PORT` and `BASE_PATH` when present, but uses local/static-hosting defaults when they are absent.
 
 ## Pointers
 
