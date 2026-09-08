@@ -1,0 +1,35 @@
+Build a static frontend-only landing page. This is a portfolio/concept design piece, not a real production system — no backend, no database, no authentication, no user accounts, and no server of any kind.
+
+IMPORTANT TECHNICAL CONSTRAINT (read first):
+This project will be deployed on Vercel as a purely static site. Do NOT create:
+- An Express server or any backend/API folder
+- A database or ORM (no drizzle, no Prisma, etc.)
+- Any environment variable requirements (no PORT variable, no .env dependency)
+- A monorepo/workspace structure with separate client/server folders
+Just build a single, clean React + TypeScript + Tailwind frontend project (Vite-based) with no server-side code whatsoever. Everything must run and build with a plain `vite build` and be servable as static files.
+
+CONCEPT / BRIEF:
+
+Create a professional, official-style concept landing page for a fictional/demo military engineering unit called "42 Engineer Brigade." This is clearly a design concept/portfolio piece — include a small, tasteful footer note: "Concept design by Kal's Digital — sample project, not an official site."
+
+Visual direction:
+- Military-inspired but professional and clean, not flashy or cartoonish
+- Color palette: olive green, khaki/tan, black, off-white
+- Use a generic shield/badge shape as a placeholder crest/logo (do not attempt to recreate any real official insignia)
+- Structured, orderly layout — think official institutional website, not a startup landing page
+
+Sections:
+1. Header/Nav: Unit name + a simple nav (About, Services/Capabilities, Contact)
+2. Hero: "42 Engineer Brigade" as the main heading, with the placeholder tagline "Building Strong, Building Nigeria" and a brief one-line description
+3. About: A short, general paragraph about the unit's role and purpose (keep it generic/non-operational — no real facts, deployments, or sensitive details)
+4. Capabilities/Services: 3-4 general engineering capability categories, displayed as clean cards (e.g. "Construction & Infrastructure," "Bridging Operations," "Equipment Support," "Training & Development" — these are illustrative placeholders)
+5. Contact: A simple contact section with:
+   - Placeholder contact name: "Public Relations Office"
+   - Placeholder phone number (clearly fictional, e.g. an obviously non-real format)
+   - Contact email field ready for a real email address (I'll provide this separately)
+   - A simple contact form (client-side only, no backend — just a clean UI, form submission can be a no-op or a "thank you" message on submit)
+6. Footer: Unit name, the concept-design disclaimer note mentioned above, and a copyright line
+
+Keep the whole design clean, professional, and print-friendly in tone since a QR code from a physical business card will link here — the page should immediately look credible and well put-together on both desktop and mobile.
+
+Do not add any additional functionality beyond what's listed above. No logins, no dashboards, no data fetching, no third-party integrations. Keep it a simple, elegant, purely visual static site.
