@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/42-engineer-brigade/"
+title = "42 Engineer Brigade"
+description = "A polished static concept landing page for a fictional military engineering unit, with a credible institutional presence, generic placeholder crest, capabilities, contact form, and print-friendly responsive design."
+version = "1.0.0"
+id = "artifacts/42-engineer-brigade"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/42-engineer-brigade/" ]
+localPort = 26019
+
+[services.development]
+run = "pnpm --filter @workspace/42-engineer-brigade run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/42-engineer-brigade", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/42-engineer-brigade/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "26019"
+BASE_PATH = "/42-engineer-brigade/"
