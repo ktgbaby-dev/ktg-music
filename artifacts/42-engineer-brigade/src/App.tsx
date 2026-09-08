@@ -258,7 +258,7 @@ function Contact() {
               <Phone size={18} strokeWidth={1.5} /><span><span className="mono-face block text-[9px] uppercase tracking-[.17em] text-[#8a8c79]">Telephone</span><span className="mt-1 block">+234 555 042 042</span></span>
             </a>
             <div className="flex items-start gap-4 text-sm text-[#3f4935]" data-testid="text-contact-office">
-              <MapPin size={18} strokeWidth={1.5} /><span><span className="mono-face block text-[9px] uppercase tracking-[.17em] text-[#8a8c79]">Office</span><span className="mt-1 block">Civic Works House, Central District<br />Lagos, Nigeria <span className="text-[#8a8c79]">(fictional)</span></span></span>
+              <MapPin size={18} strokeWidth={1.5} /><span><span className="mono-face block text-[9px] uppercase tracking-[.17em] text-[#8a8c79]">Office</span><span className="mt-1 block">Ibadan, Oyo State, Nigeria</span></span>
             </div>
           </div>
         </div>
